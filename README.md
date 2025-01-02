@@ -36,6 +36,9 @@ another rewrite of this project. it has some stuff it didnt before and some stuf
 
 ![image](https://github.com/user-attachments/assets/bbc02f87-bb4c-4aaa-8bff-25f41c3a38b6)
 
+Building:
+get sk source from https://github.com/sonicretro/skdisasm 
+put the files from this repo into the root folder and run buildS3Complete.bat
 
 
   
