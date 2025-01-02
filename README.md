@@ -6,7 +6,7 @@ another rewrite of this project. it has some stuff it didnt before and some stuf
 # features:
 - music toggle
 - time bonus toggle
-- speedrun hud (see this image below)
+- speedrun hud (see image below)
 - frame advance toggle (press c in pause)
 - level restart toggle (press a in pause)
 - custom hud (you can set an address to watch and display a word from it on hud)
